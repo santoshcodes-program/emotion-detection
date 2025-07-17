@@ -16,7 +16,8 @@ This project detects emotions (like joy, sadness, anger, etc.) from input text u
 ## 🖥️ Demo
 Here is a screenshot of the working UI:
 
-![Emotion Detection UI](assets/emotion-detection-image.png)
+emotion-detection-image.png
+
 
 You can run the app locally and type any sentence to see its emotion classification.
 
