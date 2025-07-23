@@ -23,13 +23,12 @@ The model classifies input text into one of the following six emotions:
 
 ```
 📁 emotion-detection-project/
-├── train.ipynb            # Main training notebook
+├── app.py                 # Main training notebook
 ├── best_model.pt          # Trained PyTorch CNN model
 ├── glove.6B.100d.txt      # Pre-trained GloVe embeddings
-├── predict.py             # Inference script
-├── vocab.pkl              # Saved vocabulary/index mapping
+├── word2idx.pkl           # Saved vocabulary/index mapping
 ├── README.md              # Project documentation
-├── demo.png               # Screenshot of UI (optional)
+├── requirments.txt        # All required lib to download
 ```
 
 ---
